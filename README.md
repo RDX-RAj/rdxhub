@@ -25,5 +25,5 @@ async def rdxhub(_, message):
 # rdxhub 
 
 
-![Project Image](https://github.com/RDX-RAj/rdxhub/blob/main/out.png)
+![Project Image](https://github.com/RDX-RAj/rdxhub/blob/main/rdx.png)
 
